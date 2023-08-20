@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Tensorflow, Keras and Caffe/Caffe2**
 
 - 📫 How to reach me **Pinildissanayaka@gmail.com**
+  
+- 📫 How to reach me **Pinildissanayaka@gmail.com](https://www.linkedin.com/in/pinil-dissanayaka-a69a41285**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
