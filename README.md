@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Pinildissanayaka@gmail.com**
   
-- 📫 How to reach me **Pinildissanayaka@gmail.com](https://www.linkedin.com/in/pinil-dissanayaka-a69a41285**
+- 📫 How to reach me **https://www.linkedin.com/in/pinil-dissanayaka-a69a41285**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
