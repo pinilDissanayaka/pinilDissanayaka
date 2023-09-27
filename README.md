@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pinil Dissanayaka</h1>
-<h3 align="center">A undergraduate data analyst from Sri Lanka..</h3>
+<h3 align="center">A undergraduate Data Scientist from Sri Lanka..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinildissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pinildissanayaka" /> </p>
 
