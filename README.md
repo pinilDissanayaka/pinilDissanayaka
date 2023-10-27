@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning *Tensorflow, Keras and Caffe/Caffe2*
 
-- 👨‍💻 All of my projects are available at [https://pinildissanayaka.github.io](https://pinildissanayaka.github.io)
-
 - 💬 Ask me about *Machine Learning & Deep Learning*
+
+- 👨‍💻 All of my projects are available at [https://pinildissanayaka.github.io](https://pinildissanayaka.github.io)
 
 - 📫 How to reach me *pinildissanayaka@gmail.com*
 
-- Know about my experiences [https://www.linkedin.com/in/pinil-dissanayaka-a69a41285](https://www.linkedin.com/in/pinil-dissanayaka-a69a41285)
+- 🧑🏽‍🎓 Know about my experiences [https://www.linkedin.com/in/pinil-dissanayaka-a69a41285](https://www.linkedin.com/in/pinil-dissanayaka-a69a41285)
 
 - ⚡ Fun fact *“I don’t need luck, I have version control.”*
 
