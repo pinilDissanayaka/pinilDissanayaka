@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pinil Dissanayaka</h1>
-<h3 align="center">A undergraduate Data Scientist/ Machine Learning Engineer from Sri Lanka..</h3>
+<h3 align="center">A undergraduate Data Scientist/ Data Engineer/ Machine Learning Engineer from Sri Lanka..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinildissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pinildissanayaka" /> </p>
 
 - 🔭 I’m currently working on [Development of a Sinhala Natural Language Processing Toolkit](https://github.com/pinilDissanayaka/Sinhala-Natural-Language-Processing-Toolkit)
 
-- 🌱 I’m currently learning *Tensorflow, Keras and Caffe/Caffe2*
+- 🌱 I’m currently learning *Data engineering, SQL, Databases, Data pipelines, Data infrastructure*
 
 - 💬 Ask me about *Machine Learning & Deep Learning*
 
