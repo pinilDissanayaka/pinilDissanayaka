@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinildissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pinildissanayaka" /> </p>
 
-- 🔭 I’m currently working on [Glova-Application](https://github.com/pinilDissanayaka/Sinhala-Natural-Language-Processing-Toolkit](https://github.com/pinilDissanayaka/Glova-Application)
-
+- 🔭 I’m currently working on [Glova-Application](https://github.com/pinilDissanayaka/Glova-Application)
+- 
 - 🌱 I’m currently learning *Data engineering, SQL, Databases, Data pipelines, Data infrastructure*
 
 - 💬 Ask me about *Machine Learning & Deep Learning*
