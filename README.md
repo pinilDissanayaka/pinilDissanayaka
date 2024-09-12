@@ -11,7 +11,7 @@
 
 - 💬 Ask me about *Machine Learning & Deep Learning*
 
-- 👨‍💻 All of my projects are available at [https://pinildissanayaka.github.io](https://pinildissanayaka.github.io/pinil/)
+- 👨‍💻 All of my projects are available at [https://pinildissanayaka.github.io/pinil/](https://pinildissanayaka.github.io/pinil/)
 
 - 📫 How to reach me *pinildissanayaka@gmail.com*
 
