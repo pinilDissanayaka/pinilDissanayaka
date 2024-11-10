@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact *“I don’t need luck, I have version control.”*
 
+![snake animation](https://github.com/<seu pinilDissanayaka>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pinil-dissanayaka-a69a41285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pinil dissanayaka" height="30" width="40" /></a>
