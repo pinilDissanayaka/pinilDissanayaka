@@ -8,6 +8,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pinildissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pinildissanayaka" /> </p>
 
+<center><img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*dd26tSN0XkNa_jjy.png"></center>
+
 - 🎓 I’m currently study on [*Sabaragamuwa University of Sri Lanka*](https://www.sab.ac.lk/)
 
 - 🔭 I’m currently working on [*Glova-Application*](https://github.com/pinilDissanayaka/Glova-Application-using-Flutter)
