@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pinil Dissanayaka</h1>
 <h3 align="center">A undergraduate Data Scientist/ Data Engineer/ Machine Learning Engineer from Sri Lanka..</h3>
 
+<hr/>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pinildissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pinildissanayaka" /> </p>
 
 - 🎓 I’m currently study on [*Sabaragamuwa University of Sri Lanka*](https://www.sab.ac.lk/)
