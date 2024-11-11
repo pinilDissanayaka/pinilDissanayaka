@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pinil Dissanayaka</h1>
 
-<hr/>
-
 <h3 align="center">A undergraduate Data Scientist/ Data Engineer/ Machine Learning Engineer from Sri Lanka..</h3>
 
 <hr/>
