@@ -40,7 +40,18 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">🚀 Latest Projects 🚀</h2>
+<br>
+<div align=center>
+  | ![Project 1](https://via.placeholder.com/200) | ![Project 2](https://via.placeholder.com/200) | ![Project 3](https://via.placeholder.com/200) |
+|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
+| **[Project 1](https://pinildissanayaka.github.io/pinil/assets/SQLGenie-CtBVTSo-.png)** | **[Project 2](https://pinildissanayaka.github.io/pinil/assets/smartPage-BnVf8sJt.png)** | **[Project 3](https://pinildissanayaka.github.io/pinil/assets/docuChat-B_NJwPse.png)** |
+| A brief description of Project 1. | A brief description of Project 2. | A brief description of Project 3. |
+</div>
+
+<hr/>
+
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pinildissanayaka&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -49,6 +60,5 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pinildissanayaka&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-
 <hr/>
+
