@@ -40,17 +40,6 @@
 
 <hr/>
 
-<h2 align="left">🚀 Latest Projects 🚀</h2>
-<br>
-<div align=center>
-  | ![Project 1](https://via.placeholder.com/200) | ![Project 2](https://via.placeholder.com/200) | ![Project 3](https://via.placeholder.com/200) |
-|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
-| **[Project 1](https://pinildissanayaka.github.io/pinil/assets/SQLGenie-CtBVTSo-.png)** | **[Project 2](https://pinildissanayaka.github.io/pinil/assets/smartPage-BnVf8sJt.png)** | **[Project 3](https://pinildissanayaka.github.io/pinil/assets/docuChat-B_NJwPse.png)** |
-| A brief description of Project 1. | A brief description of Project 2. | A brief description of Project 3. |
-</div>
-
-<hr/>
-
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
