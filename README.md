@@ -10,9 +10,7 @@
 
 <center><img align="right" alt="coding" width="400" src="https://octodex.github.com/images/snowoctocat.png"></center>
 
-- 🎓 I’m currently study on [*Sabaragamuwa University of Sri Lanka*](https://www.sab.ac.lk/)
-
-- 🔭 I’m currently working on [*Glova-Application*](https://github.com/pinilDissanayaka/Glova-Application-using-Flutter)
+- 🔭 I’m currently working on [*Absol-x*](https://www.absolx.ai/)
   
 - 🌱 I’m currently learning *Data engineering, SQL, Databases, Data pipelines, Data infrastructure*
 
