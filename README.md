@@ -10,7 +10,7 @@
 
 <center><img align="right" alt="coding" width="400" src="https://octodex.github.com/images/snowoctocat.png"></center>
 
-- 🔭 I’m currently working on [*Absol-x*](https://www.absolx.ai/)
+- 🔭 I’m currently working at [*Absol-x*](https://www.absolx.ai/)
   
 - 🌱 I’m currently learning *Data engineering, SQL, Databases, Data pipelines, Data infrastructure*
 
