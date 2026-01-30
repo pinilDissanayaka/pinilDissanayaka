@@ -2,12 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pinil+Dissanayaka;" />
 </h1>
 
-<p align="center">
-  🇱🇰 Ranked among top GitHub contributors in Sri Lanka
-</p>
-
-<img src="https://your-api.vercel.app/sri-lanka-top-devs.svg" />
-
 <h3 align="center">Machine Learning Engineer from Sri Lanka..</h3>
 
 <hr/>
