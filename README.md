@@ -7,6 +7,11 @@
 <hr/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pinildissanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="pinildissanayaka" /> </p>
+githubUsers.sort(_.followers)
+           .filter(_.location == 'Sri Lanka') 
+           .take(1000)
+           .sort(_.contributions)
+           .take(256)
 
 <center><img align="right" alt="coding" width="400" src="https://octodex.github.com/images/snowoctocat.png"></center>
 
