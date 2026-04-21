@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working at CodeGen International (Pvt) Ltd<br><br>🌱 I’m currently learning Data engineering, SQL, Databases, Data pipelines, Data infrastructure<br><br>💬 Ask me about Machine Learning & Deep Learning<br><br>👨‍💻 All of my projects are available at https://pinildissanayaka.github.io/pinil/<br><br>📫 How to reach me pinildissanayaka@gmail.com<br><br>🧑🏽‍🎓 Know about my experiences https://www.linkedin.com/in/pinil-dissanayaka-a69a41285<br><br>⚡ Fun fact “I don’t need luck, I have version control.”
+I am Pinil Dissanayaka, a passionate AI/Software Engineer.
 
+I like to contribute to open source and share what I learn.
+
+📣 NEWS! I launched a free course on Reinforcement Learning Environments for AI Agents. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pinil-dissanayaka-a69a41285) 
