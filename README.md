@@ -3,7 +3,6 @@ I am Pinil Dissanayaka, a passionate AI/Software Engineer.
 
 I like to contribute to open source and share what I learn.
 
-📣 NEWS! I launched a repo Reinforcement Learning Environments for AI Agents. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pinil-dissanayaka-a69a41285) 
